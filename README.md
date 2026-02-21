@@ -280,7 +280,7 @@ git pull && sudo ./deploy.sh
 
 感谢所有支持本项目的朋友！
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/terminal-farm&type=Date)](https://star-history.com/#YOUR_USERNAME/terminal-farm&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=RoseKhlifa/terminal-farm&type=Date)](https://star-history.com/#RoseKhlifa/terminal-farm&Date)
 
 ---
 
